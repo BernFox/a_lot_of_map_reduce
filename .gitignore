@@ -1,0 +1,5 @@
+*.pyc
+*.txt
+*.csv
+*.tsv
+access_log
